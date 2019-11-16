@@ -1,7 +1,7 @@
 {
   "name": "project-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000s\u0000t\u00001\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -14,9 +14,17 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "md5": "^2.2.1",
-    "mongoose": "^5.7.10"
+    "mongoose": "^5.7.11"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vansuphan/api-projest1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vansuphan/api-projest1/issues"
+  },
+  "homepage": "https://github.com/vansuphan/api-projest1#readme"
 }
